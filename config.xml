@@ -17,14 +17,14 @@
 
 	<!--Personaliza la aplicacion y plataforma-->
 	<!-- <preference name="orientation"		value="default"/> -->
-	<preference name="orientatioin"		value="portrait"/>
+	<preference name="orientation"		value="portrait"/>
 	<!--preference name="orientation"		value="landscape"/>-->
 	<preference name="target-device" 		value="universal"/>
 	<preference name="fullscreen"		value="true"/>
 	<preference name="android-installLocation" value="auto"/>
 	<preference name="permissions" value="INTERNET"/>
 
-	<!--plugins-->
+	<!--Plugins-->
 	<!--Core plugins-->
 	<plugin name="cordova-plugin-device" spec="~1.1.4"/>
 	<plugin name="cordova-plugin-vibration" spec="~2.1.3"/>
